@@ -29,3 +29,36 @@
 10. **Basic Visualization**
     - Accuracy Score
     - Confusion Matrix
+
+
+# Week 3: Understanding Unsupervised Learning
+
+## 1. Clustering
+Clustering is a technique used to group similar data points together without predefined labels.
+
+## 2. Principal Component Analysis (PCA)
+PCA is a dimensionality reduction technique that transforms data into a new coordinate system, preserving maximum variance.
+
+## 3. K-Means Clustering
+K-Means is a widely used clustering algorithm that partitions data into K distinct clusters by minimizing intra-cluster variance.
+
+---
+
+# Mini Project: Mall Customer Dataset Analysis
+
+## 1. Problem Statement
+Understanding customer segmentation to optimize business strategies.
+
+## 2. Data Understanding
+- Dataset: Mall Customer dataset
+- Features: Customer ID, Gender, Age, Annual Income, Spending Score
+- Goal: Extract insights and categorize customers based on their spending habits.
+
+## 3. Model Building
+Applied both supervised and unsupervised machine learning techniques:
+- **Supervised Learning**: Classification models to predict customer categories
+- **Unsupervised Learning**: Clustering methods like K-Means and PCA for segmentation
+
+## 4. Evaluation
+- Examined cluster quality using silhouette scores and visualization
+- Assessed supervised models through accuracy and confusion matrices
